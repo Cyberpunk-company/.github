@@ -14,8 +14,12 @@ Here you'll be able to find **tools** and **toys**, handcrafted with love and sw
 
 - Open-source Embedded design
 - Reverse engineering and Cyber exploration
-- Embedded GNU/Linux 
+- Embedded GNU/Linux
 
+### Tools
+
+- [Vulc4nT00l](https://github.com/Cyberpunk-company/CPC_Vulc4nT00l) - Full BASH minifier for HTML/CSS/JS (heavy dose of sed)
+  
 ### More
 
 https://cyberpunk.company
